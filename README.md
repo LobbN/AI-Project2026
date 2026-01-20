@@ -2,7 +2,7 @@
 Project Title
 AI utilizing Standard Business Practices when reviewing Vendors' Statement of Work  - Final project for the Building AI course
 
-Summary
+##Summary
 Creating an AI program that will review completed Statement of Work documents for digital providers.
 
 Background
