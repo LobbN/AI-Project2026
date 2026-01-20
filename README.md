@@ -1,9 +1,3 @@
-A heading called Summary (created in markdown like this: ##Summary)
-A short description text (about 250 characters) under Summary
-The words “Building AI course project” - for example right under the Project title or at the end of the Summary
-Some formatting, for example headings: Tags # and ## are used to create headings – you can keep the example headings to create structure on the README
-
-
 # AI-Project2026
 Project Title
 Building AI Course project AI utilizing Standard Business Practices when reviewing Vendors' Statement of Work  - Final project for the Building AI course
