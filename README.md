@@ -1,4 +1,4 @@
-# AI Project 2026 - Building an AI Solution called Standard Business Practice Reviewer
+# Building an AI Solution called Standard Business Practice Reviewer
 
 Building AI Course project AI utilizing Standard Business Practices when reviewing Vendors' Statement of Work  - Final project for the Building AI course
 
