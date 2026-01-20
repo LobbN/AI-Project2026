@@ -1,4 +1,4 @@
-# AI-Project2026
+## AI-Project2026
 Project Title
 Building AI Course project AI utilizing Standard Business Practices when reviewing Vendors' Statement of Work  - Final project for the Building AI course
 
